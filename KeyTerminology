@@ -1,3 +1,4 @@
+
     Source code - Code written by a programmer that can be retrieved for use in another program.
 
     Machine code - The binary language spoken by computers.
@@ -25,3 +26,10 @@ instantly by the interpreter for corrective adjustments to be made.
     Logical Errors - A program bug that causes a program to operate incorrectly and often produces an undesired output
 and harder to detect than syntax errors as they are only typically detectable at runtime, and are best resolved through
 iterative testing.
+
+    #Data Types
+
+int - used to store whole numbers, e.g, 100
+float - used to store numbers which include a fractional part e.g. 20.23
+boolean - used to store True or False values
+string - used to store textual data, e.g. "Dead Parrot"
