@@ -1,7 +1,7 @@
 # Portfolio
 A place to store all of my commits to the course portfolio.
 
-The weeks are separated into their relevant folders with each question separated into a relatively named .py file.
+The weeks are separated into their relevant folders with each exercise separated into a relatively named .py file.
 
 Definitions of key terminology throughout this course will be stored in the file named 'Key Terminology' housed within the root 'Portfolio' directory.
 
