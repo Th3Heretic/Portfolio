@@ -27,9 +27,17 @@ instantly by the interpreter for corrective adjustments to be made.
 and harder to detect than syntax errors as they are only typically detectable at runtime, and are best resolved through
 iterative testing.
 
-    #Data Types
+    #Data Types:
 
 int - used to store whole numbers, e.g, 100
 float - used to store numbers which include a fractional part e.g. 20.23
 boolean - used to store True or False values
 string - used to store textual data, e.g. "Dead Parrot"
+
+    #Supported escape sequences:
+
+\n Insert a newline character in a string.
+\t Insert a horizontal tab.
+\\ Insert a backslash character in a string.
+\" Insert a double quote character in a string.
+\' Insert a single quote character in a string.
