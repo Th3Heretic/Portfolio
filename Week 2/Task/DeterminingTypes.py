@@ -15,3 +15,5 @@ print("10" + "10")
 # Multiplying a string with an integer
 print("ABC" * 10)
 # It prints the string 10 times back to back
+
+
