@@ -20,7 +20,7 @@ initial = name[:]
 print(initial)
 # Note the output in the console at the bottom
 
-# Using a value that is outside of the range of the string, an error is not reported, but is rather just ignored
+# Using a value that is outside the range of the string, an error is not reported, but is rather just ignored
 name = "Damien Snow"
 initial = name[7:15]
 print(initial)
