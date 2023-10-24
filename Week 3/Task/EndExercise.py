@@ -1,5 +1,5 @@
 # Defining the list
-numbers = [10, 20, 30, 90, 200, 30, 22, 11]
+numbers = [10, 20, 30, 90, 200, 52, 67, 30, 22, 11]
 limit = 100
 total = 0
 error = "Error: Number found over 100"
