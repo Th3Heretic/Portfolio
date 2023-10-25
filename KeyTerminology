@@ -27,6 +27,20 @@ instantly by the interpreter for corrective adjustments to be made.
 and harder to detect than syntax errors as they are only typically detectable at runtime, and are best resolved through
 iterative testing.
 
+    Boolean Expression - A piece of code that can either be a 1 or a 0 which corresponds to True or False value.
+
+    Relational Operator - A construct or operator that tests or defines some kind of relation between two entities
+
+    Logical Operator - Used primarily for arithmetic operations
+
+    Operator Chaining - Comparison operators are used together to create a more complex expression
+
+    Ternary Operator - These are similar to an 'if' statement but is written on a single line, instead of multiple
+
+    Iteration - Repeated instructions in a loop
+
+    Nested Loop - A loop inside a loop
+
     #Data Types:
 
 int - used to store whole numbers, e.g, 100
