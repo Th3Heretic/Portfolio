@@ -5,12 +5,18 @@ print("Do you know numbers up to 100")
 
 def check100():
     """This is a simple function to determine whether a number is lower than 100 and returns a snarky comment"""
-    num = int(input("Enter a number under 100: "))
-
-    if num <= 100:
-        print("Well done, you can follow instructions :)")
+    num = input("Enter a number under 100: ")
+    if num == int:
+        num = int(num)
+        if num <= 100:
+            print("Well done, you can follow instructions :)")
+        else:
+            print("Come on, you know that's not under 100")
     else:
-        print("You know that number isn't under 100")
+        if num == "":
+            print("You didnt think to enter something, no?")
+        elif num:
+            print("That's not a number and you know it")
 
 
 # Testing this function in a program
