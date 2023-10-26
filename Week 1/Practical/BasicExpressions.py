@@ -1,8 +1,8 @@
 # Basic Expressions
-# Task one
+# Practical one
 print("45 + 20 =",45 + 20)
 
-# Task two
+# Practical two
 print("10 + 20 - 15 =", 10 + 20 - 15)
 
 print("10 * 5 =", 10*5)
