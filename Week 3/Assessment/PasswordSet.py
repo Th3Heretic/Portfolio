@@ -14,7 +14,8 @@ else:
 password = input("Enter a password (8-12 chars): ")
 passwordcheck = input("Enter your password again: ")
 
-# Check if the same password is entered correctly the second time, is the correct length and isn't in the bad password list
+# Check if the same password is entered correctly the second time, is the correct length and
+# isn't in the bad password list
 for pass_check in bad_passwords:
     if password[7:13]:
         if password == passwordcheck:
