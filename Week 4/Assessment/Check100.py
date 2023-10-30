@@ -14,7 +14,7 @@ def check100():
             print("Come on, you know that's not under 100")
     else:
         if num == "":
-            print("You didnt think to enter something, no?")
+            print("You didn't think to enter something, no?")
         elif num:
             print("That's not a number and you know it")
 
