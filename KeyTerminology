@@ -55,3 +55,25 @@ string - used to store textual data, e.g. "Dead Parrot"
 \\ Insert a backslash character in a string.
 \" Insert a double quote character in a string.
 \' Insert a single quote character in a string.
+
+The methods that mutate a list are -
+    extend() - appends multiple values, by providing an iterable argument value
+    insert() - inserts a single value at a specific index position
+    remove() - removes the first occurance of a specific element
+    pop() - removes and returns the last element added to the list
+    clear() - removes all elements from the list
+    sort() - sorts the contents of the list
+    reverse() - reverses the position of all elements in the list
+
+The methods that only access the list are -
+    index() - returns the index of a specific element
+    count() - returns the count of how many times a specific element appears
+    copy() - returns a shallow copy of the list
+
+
+Tuples:
+    ● Method
+    ● List comprehension
+    ● Tuple
+    ● Tuple Packing
+    ● Sequence Unpacking
